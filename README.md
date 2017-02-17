@@ -20,5 +20,5 @@
 ## changes from terminal 1
 
 
-##CHanges from terminal 2
+##Changes from terminal 2
 
