@@ -11,3 +11,6 @@
 
 
 ### I am writting this from windows git terminal
+
+
+## Now modifying from two sources to see if GIT PULL notifies me about the changes
