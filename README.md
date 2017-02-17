@@ -16,4 +16,9 @@
 ## Now modifying from two sources to see if GIT PULL notifies me about the changes
 
 
+<<<<<<< HEAD
 ## changes from terminal 1
+=======
+
+##CHanges from terminal 2
+>>>>>>> d6c7d674e0b4b4ba3a12888a7b840c448db38143
