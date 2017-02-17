@@ -14,3 +14,6 @@
 
 
 ## Now modifying from two sources to see if GIT PULL notifies me about the changes
+
+
+## changes from terminal 1
